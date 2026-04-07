@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Vivaan Saroj
 **A passionate MERN Full Stack Web Developer || Aspiring DevOps Engineer**
 
-Email Me 👉 ✉️ **iamvivaan461@gmil.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **iamvivaan461@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Complete HealthCare solution Website
 - 🌱 **I’m currently learning:** Basic Concept of DevOps
